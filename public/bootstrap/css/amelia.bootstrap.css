@@ -4483,7 +4483,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 
 .navbar-fixed-top,
 .navbar-fixed-bottom {
-  position: fixed;
+  /*position: fixed;*/
   right: 0;
   left: 0;
   border-width: 0 0 1px;
@@ -5837,7 +5837,7 @@ a.list-group-item:focus {
 
 .panel-primary > .panel-heading {
   color: #ffffff;
-  background-color: #ad1d28;
+  /*background-color: #ad1d28;*/
   border-color: #ad1d28;
 }
 
